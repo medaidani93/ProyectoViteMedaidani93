@@ -1,75 +1,124 @@
-# ProyectoViteMedaidani93
+# Resumen de Actividades y Proyectos de Mohamed Aidani
 
-## Resumen del Proyecto
+## 1. Programación en Java
 
-Este proyecto fue creado para practicar los conceptos básicos de Git, GitHub y Vite. A continuación, se describen los pasos realizados en el desarrollo del proyecto, junto con imágenes representativas de cada paso.
-
----
-
-## 1. Creación del Repositorio en GitHub
-
-El primer paso fue crear un repositorio en GitHub llamado **ProyectoViteMedaidani93**.
-
-<img width="959" alt="img1" src="https://github.com/user-attachments/assets/d8975102-6fa1-4c40-98e6-db778d310a5d" />
-
----
-
-## 2. Creación del Proyecto con Vite
-
-Luego, se configuró el proyecto utilizando **Vite** para facilitar el desarrollo de la aplicación.
-
-![Imagen de la configuración inicial de Vite](capturasGitVite/img10CollaboratosFernando.png)
+### Temas Abordados:
+- **Primer tema en Java**: Mohamed comenzó con el primer tema de Java y se familiarizó con los conceptos básicos de programación.
+- **Evaluaciones y Retroalimentación**: Mohamed ha estado recibiendo retroalimentación sobre sus ejercicios de programación en Java y ha aprendido de las correcciones.
+- **Programación Orientada a Objetos (POO)**: En este tema, Mohamed trabajó con clases, objetos, métodos y herencia en Java.
+- **Listas y Bucles**: Se realizó ejercicios con listas y bucles, enfocándose en estructuras de datos y ciclos en Java.
+  
+### Objetivos Logrados:
+- Resolución de ejercicios en Java con la retroalimentación adecuada.
+- Aplicación de conceptos de POO en proyectos reales.
 
 ---
 
-## 3. Adición de Archivos y Primer Commit
+## 2. Uso de Git y GitHub
 
-Se añadieron varios archivos, como `index.html`, `package.json`, y `style.css`, y se realizó el primer commit.
+### Actividades:
+- **Repositorios en GitHub**: Mohamed creó varios repositorios en GitHub como 'PracticandoGit', 'WebInicio', y 'ProyectoViteMedaidani93'.
+- **Ramas en Git**: Trabajó con ramas en Git como `feature-ui`, `hermano1`, y `hermano2`, aprendiendo a fusionar cambios y manejar ramas de manera eficiente.
+- **Comandos Básicos de Git**: Se familiarizó con comandos como `git status`, `git clone`, `git push`, `git pull`, y `git merge` para gestionar proyectos.
 
-![Imagen del primer commit](capturasGitVite/img9SegundoCommit.png)
-
----
-
-## 4. Trabajando con Ramas y Merge
-
-Se crearon diferentes ramas para trabajar en características específicas. Finalmente, se realizó un **merge** de la rama `desarrollo` en `main`.
-
-![Imagen del merge realizado](capturasGitVite/img12ResultadoFinalBotom.png)
+### Objetivos Logrados:
+- Configuración de repositorios y manejo de versiones con Git.
+- Creación y gestión de ramas, incluyendo colaboración con otros mediante GitHub.
 
 ---
 
-## 5. Resolución de Conflictos
+## 3. Desarrollo Web (HTML y CSS)
 
-Durante el merge, surgieron conflictos en el archivo `index.html`, los cuales fueron resueltos.
+### Actividades:
+- **Páginas Web en HTML/CSS**: Mohamed trabajó en el diseño y desarrollo de páginas web, utilizando HTML y CSS para crear estructuras y diseños atractivos.
+- **Formularios en HTML**: Creación de formularios interactivos con campos de entrada, botones y validaciones básicas.
+- **Estilo y Diseño**: Utilización de CSS para diseñar y personalizar las páginas web, con enfoque en la experiencia del usuario.
 
-![Imagen de la resolución de conflictos](capturasGitVite/img12Cambios.png)
-
----
-
-## 6. Subida al Repositorio de GitHub
-
-Finalmente, todos los cambios se subieron a GitHub.
-
-![Imagen de los cambios subidos](capturasGitVite/img12SubiendoAlRepositorio.png)
+### Objetivos Logrados:
+- Desarrollo de sitios web básicos y formularios con HTML y CSS.
+- Aplicación de técnicas de diseño en la creación de interfaces.
 
 ---
 
-## Tecnologías Usadas
+## 4. Bases de Datos
 
-- **Git**: Control de versiones.
-- **GitHub**: Repositorio remoto.
-- **Vite**: Herramienta para configurar el entorno de desarrollo.
-- **HTML/CSS/JavaScript**: Lenguajes utilizados en el proyecto.
+### Actividades:
+- **Creación de Base de Datos**: Mohamed desarrolló una base de datos para una empresa de alquiler de automóviles, utilizando MariaDB y HeidiSQL.
+- **Conexión de Base de Datos**: Logró conectar HeidiSQL con MariaDB sin problemas, gestionando las tablas y consultas adecuadamente.
 
----
-
-## Contribuciones
-
-Este proyecto es un esfuerzo personal para aprender y practicar las mejores prácticas con Git y GitHub. Si deseas colaborar, no dudes en hacer un fork del repositorio y abrir pull requests.
+### Objetivos Logrados:
+- Creación y administración de bases de datos con MariaDB.
+- Realización de consultas SQL para gestionar los datos.
 
 ---
 
-## Licencia
+## 5. Proyecto con Vite
 
-Este proyecto no tiene una licencia específica.
+### Actividades:
+- **Proyecto 'ProyectoViteMedaidani93'**: Mohamed creó un nuevo proyecto utilizando Vite para desarrollo frontend.
+- **Configuración de Vite**: Instalación y configuración inicial de Vite en el proyecto, aprendiendo sobre sus ventajas para la creación de aplicaciones web rápidas.
 
+### Objetivos Logrados:
+- Desarrollo de un proyecto básico con Vite.
+- Familiarización con herramientas modernas para desarrollo web.
+
+---
+
+## 6. Subnetting y Direcciones IP
+
+### Actividades:
+- **Subnetting**: Mohamed comenzó a estudiar y practicar el concepto de subnetting, aprendiendo cómo dividir redes y calcular direcciones IP.
+- **Direcciones IP**: Se enfocó en aprender la estructura y clasificación de las direcciones IP.
+
+### Objetivos Logrados:
+- Comprensión de cómo funcionan las redes y subredes en el contexto de las direcciones IP.
+
+---
+
+## 7. Otros Proyectos y Actividades
+
+### Actividades:
+- **HTML y CSS en proyectos reales**: Mohamed creó una nueva página de HTML y CSS, incluyendo el uso de texto sobre la política española en un párrafo específico.
+- **GitHub y Git**: Pausa temporal en la práctica de Git y GitHub, con intención de continuar más tarde.
+
+### Objetivos Logrados:
+- Creación de páginas web con HTML/CSS y personalización de texto.
+- Manejo de Git y GitHub en proyectos colaborativos.
+
+---
+
+## 8. Estilo de Vida y Otros Intereses
+
+- **Natación**: Mohamed lleva más de 5 años practicando la natación estilo libre.
+- **Buceo**: Mohamed es capaz de sumergirse hasta 25 metros bajo el agua.
+- **Alimentación**: Se cuida mucho en el tema de la alimentación, siguiendo hábitos saludables.
+- **Deportes**: Además de natación, Mohamed tiene un fuerte interés en deportes acuáticos y actividades al aire libre.
+
+---
+
+## 9. Enlaces de Imágenes Relacionadas
+
+- ![Imagen 1](https://drive.google.com/uc?export=view&id=1aw9hy3gg7L2cT9sweiMLtCa1iRjLwKcl)
+- ![Imagen 2](https://drive.google.com/uc?export=view&id=1uJKAYbddsDkGIG8ZaQQi3vivomGlr01E)
+- ![Imagen 3](https://drive.google.com/uc?export=view&id=1Vi2wTeHBWuU-9QzNu2mQ2Dntdpfdd46P)
+- ![Imagen 4](https://drive.google.com/uc?export=view&id=1KjFMXaeDxB3LZrcmRL9H9TaasQghwOEV)
+- ![Imagen 5](https://drive.google.com/uc?export=view&id=1M8vOkl5TKlOjWC_UBaIrAwd7VQjWPV92)
+- ![Imagen 6](https://drive.google.com/uc?export=view&id=13erJGAGm4fmoRNQ9oqR8svIAjpP5u1jZ)
+- ![Imagen 7](https://drive.google.com/uc?export=view&id=1qgwyXqh38zSEDATYJvHv-BW7-wPO4jSk)
+- ![Imagen 8](https://drive.google.com/uc?export=view&id=1NJq-9QxARDSqx6tQjIbMwhLceMfOtIyK)
+- ![Imagen 9](https://drive.google.com/uc?export=view&id=1l5uGwy8mLBgY6PrIIp-CoX-oHwNUv-Eb)
+- ![Imagen 10](https://drive.google.com/uc?export=view&id=1kRmrAi5C6evM22Zi3H9IBag5lRdt2D5p)
+- ![Imagen 11](https://drive.google.com/uc?export=view&id=13TERYBCxrefU40ZmE73cruoa6RKZlkhY)
+- ![Imagen 12](https://drive.google.com/uc?export=view&id=16-aqAbne_xwAM8AhevKnumWW4rxzeBRt)
+- ![Imagen 13](https://drive.google.com/uc?export=view&id=1stGxXJdDinqdX698tHUbtq6SFIglB1pp)
+- ![Imagen 14](https://drive.google.com/uc?export=view&id=1woGAcg09fFIonAxmMsHzCTKUpeg4noEg)
+- ![Imagen 15](https://drive.google.com/uc?export=view&id=1Zjo6TGT7NWHz_vYgMiLnFSIbdAV_2vr4)
+- ![Imagen 16](https://drive.google.com/uc?export=view&id=1fknVd_Ijmsk0BIkgMrCKm03UrEWf56XZ)
+- ![Imagen 17](https://drive.google.com/uc?export=view&id=1_xKKVxlzSD3YXUwRSEWZqcz-37IYSSH1)
+- ![Imagen 18](https://drive.google.com/uc?export=view&id=1xeIUsOLq3_5nSt6lbxshZy_I2fMtWwg2)
+- ![Imagen 19](https://drive.google.com/uc?export=view&id=1Xkd4iqnw29zdUa6q3UGC77VzZFBXaPYx)
+- ![Imagen 20](https://drive.google.com/uc?export=view&id=1TaXGrMUux5AOxfwhw-VdfncfClQiPw8q)
+- ![Imagen 21](https://drive.google.com/uc?export=view&id=1Ts3NWk-fL28Vqg9BNLS_Zag4-YqFCids)
+- ![Imagen 22](https://drive.google.com/uc?export=view&id=1tvj75ovJrnnFH-QwVg9cc1FDkfTJnARW)
+- ![Imagen 23](https://drive.google.com/uc?export=view&id=1W74dgIsDfhzk1ItQy2CfmREue4mE-pCV)
+- ![Imagen 24](https://drive.google.com/uc?
