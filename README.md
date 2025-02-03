@@ -1,100 +1,80 @@
-# Resumen de Actividades y Proyectos de Mohamed Aidani
+# 📌 Resumen del Trabajo en Git y GitHub : 
 
-## 1. Programación en Java
-
-### Temas Abordados:
-- **Primer tema en Java**: Mohamed comenzó con el primer tema de Java y se familiarizó con los conceptos básicos de programación.
-- **Evaluaciones y Retroalimentación**: Mohamed ha estado recibiendo retroalimentación sobre sus ejercicios de programación en Java y ha aprendido de las correcciones.
-- **Programación Orientada a Objetos (POO)**: En este tema, Mohamed trabajó con clases, objetos, métodos y herencia en Java.
-- **Listas y Bucles**: Se realizó ejercicios con listas y bucles, enfocándose en estructuras de datos y ciclos en Java.
-  
-### Objetivos Logrados:
-- Resolución de ejercicios en Java con la retroalimentación adecuada.
-- Aplicación de conceptos de POO en proyectos reales.
+Hoy hemos trabajado con **Git y GitHub**, centrándonos en el flujo de trabajo de **gestión de versiones y colaboración en equipo**.
 
 ---
 
-## 2. Uso de Git y GitHub
-
-### Actividades:
-- **Repositorios en GitHub**: Mohamed creó varios repositorios en GitHub como 'PracticandoGit', 'WebInicio', y 'ProyectoViteMedaidani93'.
-- **Ramas en Git**: Trabajó con ramas en Git como `feature-ui`, `hermano1`, y `hermano2`, aprendiendo a fusionar cambios y manejar ramas de manera eficiente.
-- **Comandos Básicos de Git**: Se familiarizó con comandos como `git status`, `git clone`, `git push`, `git pull`, y `git merge` para gestionar proyectos.
-
-### Objetivos Logrados:
-- Configuración de repositorios y manejo de versiones con Git.
-- Creación y gestión de ramas, incluyendo colaboración con otros mediante GitHub.
+## 1️⃣ Creación y Cambio de Ramas  
+- Creamos una nueva rama llamada `feature-ui` para trabajar en una funcionalidad específica sin afectar la rama principal (`main`).  
+- Usamos el comando:  
+  ```bash
+  git checkout feature-ui
+  ```  
+  para movernos a la nueva rama y trabajar desde ahí.  
 
 ---
 
-## 3. Desarrollo Web (HTML y CSS)
-
-### Actividades:
-- **Páginas Web en HTML/CSS**: Mohamed trabajó en el diseño y desarrollo de páginas web, utilizando HTML y CSS para crear estructuras y diseños atractivos.
-- **Formularios en HTML**: Creación de formularios interactivos con campos de entrada, botones y validaciones básicas.
-- **Estilo y Diseño**: Utilización de CSS para diseñar y personalizar las páginas web, con enfoque en la experiencia del usuario.
-
-### Objetivos Logrados:
-- Desarrollo de sitios web básicos y formularios con HTML y CSS.
-- Aplicación de técnicas de diseño en la creación de interfaces.
+## 2️⃣ Verificación del Estado del Repositorio  
+- Utilizamos `git status` para ver qué archivos habían sido modificados y cuáles estaban listos para ser confirmados en un commit.  
 
 ---
 
-## 4. Bases de Datos
-
-### Actividades:
-- **Creación de Base de Datos**: Mohamed desarrolló una base de datos para una empresa de alquiler de automóviles, utilizando MariaDB y HeidiSQL.
-- **Conexión de Base de Datos**: Logró conectar HeidiSQL con MariaDB sin problemas, gestionando las tablas y consultas adecuadamente.
-
-### Objetivos Logrados:
-- Creación y administración de bases de datos con MariaDB.
-- Realización de consultas SQL para gestionar los datos.
-
----
-
-## 5. Proyecto con Vite
-
-### Actividades:
-- **Proyecto 'ProyectoViteMedaidani93'**: Mohamed creó un nuevo proyecto utilizando Vite para desarrollo frontend.
-- **Configuración de Vite**: Instalación y configuración inicial de Vite en el proyecto, aprendiendo sobre sus ventajas para la creación de aplicaciones web rápidas.
-
-### Objetivos Logrados:
-- Desarrollo de un proyecto básico con Vite.
-- Familiarización con herramientas modernas para desarrollo web.
+## 3️⃣ Agregar Cambios y Realizar un Commit  
+- Usamos:  
+  ```bash
+  git add .
+  ```  
+  para añadir todos los archivos modificados al área de preparación.  
+- Luego, con:  
+  ```bash
+  git commit -m "Mensaje del commit"
+  ```  
+  guardamos los cambios en el historial del repositorio.  
 
 ---
 
-## 6. Subnetting y Direcciones IP
-
-### Actividades:
-- **Subnetting**: Mohamed comenzó a estudiar y practicar el concepto de subnetting, aprendiendo cómo dividir redes y calcular direcciones IP.
-- **Direcciones IP**: Se enfocó en aprender la estructura y clasificación de las direcciones IP.
-
-### Objetivos Logrados:
-- Comprensión de cómo funcionan las redes y subredes en el contexto de las direcciones IP.
-
----
-
-## 7. Otros Proyectos y Actividades
-
-### Actividades:
-- **HTML y CSS en proyectos reales**: Mohamed creó una nueva página de HTML y CSS, incluyendo el uso de texto sobre la política española en un párrafo específico.
-- **GitHub y Git**: Pausa temporal en la práctica de Git y GitHub, con intención de continuar más tarde.
-
-### Objetivos Logrados:
-- Creación de páginas web con HTML/CSS y personalización de texto.
-- Manejo de Git y GitHub en proyectos colaborativos.
+## 4️⃣ Subir Cambios a GitHub (`git push`)  
+- Ejecutamos:  
+  ```bash
+  git push origin feature-ui
+  ```  
+  para subir los cambios de la rama `feature-ui` al repositorio remoto en GitHub.  
+- Esto permitió que otros miembros del equipo pudieran ver y revisar los cambios.  
 
 ---
 
-## 8. Estilo de Vida y Otros Intereses
-
-- **Natación**: Mohamed lleva más de 5 años practicando la natación estilo libre.
-- **Buceo**: Mohamed es capaz de sumergirse hasta 25 metros bajo el agua.
-- **Alimentación**: Se cuida mucho en el tema de la alimentación, siguiendo hábitos saludables.
-- **Deportes**: Además de natación, Mohamed tiene un fuerte interés en deportes acuáticos y actividades al aire libre.
+## 5️⃣ Creación de un Pull Request (PR)  
+- Desde **GitHub**, abrimos un **Pull Request** para proponer la fusión de `feature-ui` con `main`.  
+- En este paso, revisamos los cambios y aseguramos que no hubiera conflictos con la rama principal.  
 
 ---
+
+## 6️⃣ Aprobación y Fusión del Pull Request (Merge)  
+- Una vez aprobados los cambios, hicimos un **merge** de `feature-ui` en `main`.  
+- Para mantener el repositorio limpio, eliminamos la rama `feature-ui` con:  
+  ```bash
+  git branch -d feature-ui
+  ```  
+
+---
+
+## 7️⃣ Actualización Local (`git pull`)  
+- Finalmente, sincronizamos nuestro repositorio local con los cambios actualizados en **GitHub** ejecutando:  
+  ```bash
+  git pull origin main
+  ```  
+- De esta manera, nos aseguramos de estar trabajando con la última versión del proyecto.  
+
+---
+
+## 📌 **Conclusión**  
+Hoy hemos completado el flujo de trabajo básico en **Git y GitHub**, aprendiendo a:  
+✅ Crear y gestionar ramas.  
+✅ Hacer cambios, agregarlos y confirmarlos con commits.  
+✅ Subir cambios a **GitHub** y colaborar con **Pull Requests**.  
+✅ Fusionar cambios en la rama principal (`main`).  
+✅ Mantener el repositorio local actualizado.  
+
 
 ## 9. Enlaces de Imágenes Relacionadas
 
